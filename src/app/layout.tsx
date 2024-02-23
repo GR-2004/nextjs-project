@@ -16,7 +16,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
+    <html lang="en" className="dark
+    7">
       <body className={inter.className}>
         <div className="relative w-full flex items-center justify-center">
           <Navbar/>

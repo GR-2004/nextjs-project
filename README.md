@@ -1,9 +1,10 @@
 using Aceternity UI
+
 hero page - navbar
             spotlight
             moving-border
 
-
+FeaturedSection - background-gradient
 
 
 

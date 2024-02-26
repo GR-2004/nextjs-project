@@ -6,6 +6,10 @@ hero page - navbar
 
 FeaturedSection - background-gradient
 
+WhyChooseUs - sticky-scroll-reveal
+
+TestimonialCards - infinte-moving-cards
+
 
 
 

@@ -10,6 +10,8 @@ WhyChooseUs - sticky-scroll-reveal
 
 TestimonialCards - infinte-moving-cards
 
+upComingWebinar - hover effect
+
 
 
 

@@ -12,6 +12,9 @@ TestimonialCards - infinte-moving-cards
 
 upComingWebinar - hover effect
 
+Instructor      - animated-toolkit
+                  wavy background
+
 
 
 

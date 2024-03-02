@@ -12,9 +12,12 @@ TestimonialCards - infinte-moving-cards
 
 upComingWebinar - hover effect
 
-Instructor      - animated-toolkit
-                  wavy background
+Instructor - animated-toolkit
+             wavy background
 
+courses page - 3d-card.tsx
+
+contact page - background-beams
 
 
 

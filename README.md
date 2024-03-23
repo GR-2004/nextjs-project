@@ -1,3 +1,14 @@
+<h1 align="center" id="title">Master the art of music</h1>
+
+<p id="description">Dive into our comprehensive music courses and transform your musical journey today. Whether you're a beginner or looking to refine your skills join us to unlock your true potential.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://music-school-ten.vercel.app/](https://music-school-ten.vercel.app/)
+
+
+<h2> Technolgies used </h2>
+
 using Aceternity UI
 
 hero page - navbar
